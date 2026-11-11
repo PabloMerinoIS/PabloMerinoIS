@@ -31,9 +31,9 @@ What sets me apart: **I understand the data and the models, and I also know how 
 
 ## 🏆 Featured Projects
 
-> These projects live in private repositories for now. I am happy to walk through them or show the code in a conversation.
+> The first project is open source. The other two live in private repositories for now: I am happy to walk through them or show the code in a conversation.
 
-### 1. 🤖 AI Receptionist for Hair Salons
+### 1. 🤖 [AI Receptionist for Hair Salons](https://github.com/PabloMerinoIS/ai-hairsalon-receptionist)
 **Python · Flask · LLM Tool Use · Render**
 A web chat where an AI assistant answers business questions (prices, opening hours, FAQs) and **books, looks up and cancels real appointments**.
 
