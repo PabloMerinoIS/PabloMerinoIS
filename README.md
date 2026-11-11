@@ -86,12 +86,14 @@ A platform connecting **industrial SMEs with verified commercial agents** for ex
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
 - 🎓 **Degree in Data Engineering & Artificial Intelligence** — University of León (3rd Year)
   - **AI & Data:** Advanced Machine Learning, Data Mining, Data Science, Knowledge-Based Systems.
   - **Foundations:** Calculus, Linear Algebra, Probability, Mathematical Modelling, Signals & Systems.
   - **Software & Systems:** Programming, Data Structures, Databases, Advanced Information Systems, Software Engineering, Computer Networks.
+- 📜 **AI-Assisted Development: Programming with Agents** — BIG school × mouredev (6 h, June 2026)
+  - Hands-on training in building software with AI coding agents.
 
 ---
 
