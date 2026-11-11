@@ -31,7 +31,7 @@ What sets me apart: **I understand the data and the models, and I also know how 
 
 ## 🏆 Featured Projects
 
-> The first project is open source. The other two live in private repositories for now: I am happy to walk through them or show the code in a conversation.
+> Projects 1 and 4 are open source. The other two live in private repositories for now: I am happy to walk through them or show the code in a conversation.
 
 ### 1. 🤖 [AI Receptionist for Hair Salons](https://github.com/PabloMerinoIS/ai-hairsalon-receptionist)
 **Python · Flask · LLM Tool Use · Render**
@@ -54,6 +54,14 @@ A platform connecting **industrial SMEs with verified commercial agents** for ex
 - **Three dashboards** (company, agent and admin), in-app messaging and an explicit deal lifecycle.
 - **Agent verification** with documents and real-time EU VAT validation (VIES).
 - **Interface in 5 languages** (EN / ES / FR / DE / IT), real-time notifications, deployed on Cloudflare Workers.
+
+### 4. 🧾 [Sesenta — Unpaid Invoice Claims for Spanish SMEs](https://github.com/PabloMerinoIS/PabloMerinoIS-sesenta)
+**JavaScript · Single-file web app · Business modelling (Excel)**
+A product built end to end, from market research to launch: a tool that helps freelancers and small businesses in Spain **claim unpaid B2B invoices** under the late-payment law (Ley 3/2004).
+
+- **Calculation engine:** statutory late-payment interest by semester, the fixed €40 recovery cost, and partial payments, covered by 64 automated tests.
+- **Ready-to-send letters:** friendly reminder, formal claim and settlement proposal.
+- **Business side:** market analysis of 8+ niches, a spreadsheet model with 3 scenarios, brand and landing page, and a 30-day launch plan.
 
 ---
 
