@@ -8,6 +8,8 @@
 
 **3rd Year Data Engineering & Artificial Intelligence Student | University of León** focusing on **LLM Applications | Machine Learning | Full-Stack Development**
 
+🔎 **Looking for a summer 2027 internship (July to September) in AI and data · Valladolid or remote**
+
 </div>
 
 ---
@@ -26,6 +28,7 @@ What sets me apart: **I understand the data and the models, and I also know how 
 - **Backend & Data:** REST APIs with Flask, PostgreSQL (Supabase), Row-Level Security, authentication and role-based access.
 - **Full-Stack:** React + TypeScript, Tailwind CSS, server-side rendered apps and cloud deployment.
 - **Software Quality:** Automated testing (pytest, Vitest, Playwright) and projects that can be tested without API keys thanks to mocked tests.
+- **AI-Assisted Development:** I work with coding agents, and I review and test what they generate.
 
 ---
 
